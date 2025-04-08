@@ -15,6 +15,8 @@
 
 #### Языки и основы:
 <p>
+  Основы <img src="https://img.shields.io/badge/-Assembler-3976AB?style=flat&logo=assembler&logoColor=white"/><br>
+  Основы <img src="https://img.shields.io/badge/-Pascal-3975AB?style=flat&logo=pascal&logoColor=white"/><br>
   Основы <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/><br>
   Немного ООП на <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/><br>
   Немного ООП на <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/><br>
